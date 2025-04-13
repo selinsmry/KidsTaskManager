@@ -1,0 +1,2 @@
+W102,"Lego Set","Price:150TL, Brand:LEGO",,,,,APPROVED,
+W103,"Go to the Cinema","Price:100TL",2025-03-07,14:00,2025-03-07,16:00,APPROVED,

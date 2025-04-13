@@ -1,0 +1,4 @@
+T,101,"Math Homework","Solve pages 10 to 20",2025-03-01,15:00,,,10,true,true,5
+T,102,"School Picnic","Prepare for picnic",2025-03-05,10:00,2025-03-05,12:00,15,false,false,0
+T,105,"Science Homework","Solve pages 10 to 20",2025-04-13,15:00,,,10,false,false,0
+T,106,"Algorithms Homework","Solve pages 10 to 20",2025-04-16,15:00,,,10,false,false,0
